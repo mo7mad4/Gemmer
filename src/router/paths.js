@@ -7,7 +7,6 @@ export const PATHS = {
       ROOT: '/admin/home',
       USERS: '/admin/users',
       PROFILE: '/admin/profile',
-      SETTINGS: '/admin/settings'
     },
     ERRORS: {
       NOT_FOUND: '404',
